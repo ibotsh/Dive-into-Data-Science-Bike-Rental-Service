@@ -1,5 +1,4 @@
-Simple exploritory data analysis and graphing with example data collected from Bike rental ridership app. Studied from Bradford Tuckfield's book 'Dive into Data Science.' 
-Compleated these exersises in prepreation for MS in Data Analytics.
+Simple exploratory data analysis and graphing with example data collected from Bike rental ridership app. Studied from Bradford Tuckfield's book 'Dive into Data Science.' Completed these exercises in preparation for MS in Data Analytics.
 
 Scatter plot for bike ridership count by hour:
 ![Scatter plot for bike ridership count by hour](https://github.com/user-attachments/assets/e6ffb517-c1b8-4173-a337-2dc31dee0f26)
